@@ -2,8 +2,6 @@
 ## AOS Taskapp - Entretien (Single Page Application)  
   
 Application de gestion des tâches avec authentification (Single Page Application).  
-  
-Crée dans le cadre d'un entretien pour un stage.  
 
 ### Tâches effectuées
 
