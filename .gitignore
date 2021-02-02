@@ -21,7 +21,6 @@ public_html/storage
 public_html/hot
 
 package-lock.json
-composer.lock
 
 storage/*.key
 .env
